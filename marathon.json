@@ -24,7 +24,8 @@
         }
     ],
     "id": "cd-demo-app",
-    "instances": 0,
+    "instances": 1,
+    "constraints": [["hostname", "CLUSTER", "172.16.1.21" ]],
     "labels": {
         "HAPROXY_GROUP": "external",
         "lastChangedBy": "ndachel@gmail.com"
