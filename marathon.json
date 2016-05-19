@@ -24,7 +24,7 @@
         }
     ],
     "id": "cd-demo-app",
-    "instances": 1,
+    "instances": 0,
     "labels": {
         "HAPROXY_GROUP": "external",
         "lastChangedBy": "ndachel@gmail.com"
