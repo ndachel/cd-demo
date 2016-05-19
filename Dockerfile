@@ -1,2 +1,2 @@
-FROM 172.16.1.20:5000/jekyll
+FROM private-registry.marathon.mesos:5000/jekyll
 ADD site /srv/jekyll
