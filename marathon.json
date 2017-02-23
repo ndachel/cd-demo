@@ -1,7 +1,7 @@
 {
     "container": {
         "docker": {
-            "image": "mesosphere/cd-demo-app:latest",
+            "image": "mesosphere/marathon-demo:latest",
             "network": "BRIDGE",
             "portMappings": [
                 {
